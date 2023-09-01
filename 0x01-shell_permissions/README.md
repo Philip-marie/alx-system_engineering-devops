@@ -1,3 +1,3 @@
 # Shell Permissions Project
 
-This repository contains script related to shell permissions. The script adds execute permission to the owner and the group owner and the users.
+This repository contains script related to shell permissions. The script that set permission to the file.
