@@ -1,3 +1,3 @@
 # Shell Permissions Project
 
-This repository contains script related to shell permissions. The script creates empty file.
+This repository contains script related to shell permissions. The script adds execute permission to the owner.
