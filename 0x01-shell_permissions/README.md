@@ -1,3 +1,3 @@
 # Shell Permissions Project
 
-This repository contains script related to shell permissions. The scrit contains command to print group users.
+This repository contains script related to shell permissions. The script contains changing the file of the owner.
