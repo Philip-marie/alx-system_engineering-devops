@@ -1,3 +1,3 @@
 # Shell Permissions Project
 
-This repository contains script related to shell permissions. The script 0-iam_betty switches the current user to the user betty.
+This repository contains script related to shell permissions. The scrit contains 1-who_am_i which prints the effective user name of the current user.
