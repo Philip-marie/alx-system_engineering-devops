@@ -1,3 +1,3 @@
 # Shell Permissions Project
 
-This repository contains script related to shell permissions. The script that creates a directory.
+This repository contains script related to shell permissions. The script th changes the group owner.
