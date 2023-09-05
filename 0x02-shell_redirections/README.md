@@ -1,3 +1,3 @@
 # Shell I/O Redirections
 
-This project contains a script that displaysnthat first lines.
+This project contains a script that displays the third line of the file.
