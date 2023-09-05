@@ -1,3 +1,3 @@
 # Shell I/O Redirections
 
-This project contains a shell script that writes into a file.
+This project contains a shell script that duplicates a line.
