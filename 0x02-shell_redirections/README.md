@@ -1,3 +1,3 @@
 # Shell I/O Redirections
 
-This project contains a shell script that duplicates a line.
+This project contains a script that deletes all regular files.
