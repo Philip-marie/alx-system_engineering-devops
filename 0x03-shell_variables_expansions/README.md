@@ -1,3 +1,3 @@
 # This project is Shell Variables Expansions
 
-This  project contains a script that lists environment variables and local variables
+This  project contains a script that creates local variable
