@@ -1,3 +1,3 @@
 # This project is Shell Variables Expansions
 
-This  project contains a script that displays the  result of BREATH to the power LOVE
+This  project contains a script that displays the  number in base 10, followed by a new line.
