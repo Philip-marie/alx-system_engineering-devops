@@ -1,3 +1,3 @@
 # This project is Shell Variables Expansions
 
-This  project contains a script that creates local variable
+This  project contains a script that creates global variable
