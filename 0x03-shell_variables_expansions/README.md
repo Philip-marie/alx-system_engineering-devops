@@ -1,3 +1,3 @@
 # This project is Shell Variables Expansions
 
-This  project contains a script tat prints all possible combinations of two letters, except oo.
+This  project contains a script that prints a number with two decimal places, followed by new line.
